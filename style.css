@@ -1,0 +1,85 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: antiquewhite;
+    font-size: 3rem;
+    font-family: Regular Libre Baskerville;
+    margin: 0px;
+    background-color: rgb(196, 153, 236);
+    border-radius: 10px;
+}
+
+hr {
+    border-width: 1px;
+}
+
+p {
+    text-align: center;
+    color: antiquewhite;
+    font-size: 2rem;
+    margin: 0px;
+}
+
+img {
+    border: 5px double antiquewhite;
+    height: 40%;
+    width: 40%;
+    margin-left: 25%;
+}
+
+.gemini {
+    border: 5px double antiquewhite;
+    height: 50%;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.aquarius,
+.sagittarius,
+.libra {
+    border: 5px double antiquewhite;
+    height: 30%;
+    width: 35%;
+    margin-left: 25%;
+}
+
+div {
+    width: 50%;
+    margin-left: 25%;
+    align-items: center;
+    align-content: center;
+}
+
+footer {
+    color: aliceblue;
+    font-size: 1rem;
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    background-color: rgb(196, 153, 236);
+    font-size: 1.5rem;
+    border-radius: 5px;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+ul {
+    text-align: center;
+    color: antiquewhite;
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+nav {
+    margin: 20px;
+}
